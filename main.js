@@ -637,12 +637,12 @@ var TargetCompanyComponent = /** @class */ (function () {
         };
         this.barChartColors = [
             {
-                backgroundColor: 'rgba(255,255,102,1)',
-                borderColor: 'rgba(255,255,102,1)',
-                pointBackgroundColor: 'rgba(255,255,102,1)',
+                backgroundColor: 'rgba(211,211,211,1)',
+                borderColor: 'rgba(169,169,169,1)',
+                pointBackgroundColor: 'rgba(169,169,169,1)',
                 pointBorderColor: '#fff',
                 pointHoverBackgroundColor: '#fff',
-                pointHoverBorderColor: 'rgba(255,255,102,1)'
+                pointHoverBorderColor: 'rgba(169,169,169,1)'
             }
         ];
         this.getCompanyNamesForChart = function () {
